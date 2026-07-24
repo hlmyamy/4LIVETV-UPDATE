@@ -1,7 +1,7 @@
 {
-  "versionCode": 14,
-  "versionName": "0.9.4",
-  "url": "https://github.com/hlmyamy/4livetv/raw/refs/heads/main/4livetv.apk,
+  "versionCode": 17,
+  "versionName": "2.0.1",
+  "url": "https://pub-70ccf610546b4d4abdced2a71508f1b5.r2.dev/4LiveTV.apk,
   "mandatory": false,
-  "changelog": "Bug fixes and improvements."
+  "changelog": "🔧 4LiveTv 2.0.1\n📅 25 Julai 2026\n\nPembetulan pantas:\n\n✅ Sambung tonton kini berfungsi\n✅ Kegemaran VOD (filem / drama / streaming) kini tersimpan\n✅ Senarai saluran terkini dipaparkan semula\n\nPastikan storage mencukupi sebelum update (50MB).\n\nSelamat menonton! 🍿📺"
 }

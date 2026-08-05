@@ -1,7 +1,7 @@
 {
-  "versionCode": 18,
-  "versionName": "1.8",
+  "versionCode": 19,
+  "versionName": "2.1.2",
   "url": "https://pub-70ccf610546b4d4abdced2a71508f1b5.r2.dev/4LiveTV.apk",
   "mandatory": false,
-  "changelog": "🔧 4LiveTv 1.8\n📅 25 Julai 2026\n\nPembetulan pantas:\n\n✅ Sambung tonton kini berfungsi\n✅ Kegemaran VOD (filem / drama / streaming) kini tersimpan\n✅ Senarai saluran terkini dipaparkan semula\n\nPastikan storage mencukupi sebelum update (50MB).\n\nSelamat menonton! 🍿📺"
+  "changelog": "🎉 4LiveTV 2.1.2\n📅 5 Ogos 2026\n\nKemas kini penting — sila update:\n\n📺 BAIKI: senarai saluran tak keluar\nSetengah peranti buka aplikasi tapi senarai saluran kosong, kena tutup buka semula baru jadi. Punca sebenarnya sudah dijumpai dan dibaiki — aplikasi kini periksa sambungan setiap 15 saat dan buang sambungan yang dah mati, jadi senarai saluran keluar terus.\n\n📶 BARU: kualiti auto ikut kelajuan internet\nKalau internet perlahan atau video tersekat-sekat, aplikasi akan turunkan kualiti sendiri supaya tayangan terus lancar. Bila sambungan stabil semula, kualiti naik balik automatik. Anda masih boleh pilih kualiti sendiri melalui butang kualiti.\n\n🔌 Sambungan lebih kuat\nTukar WiFi ke data mudah alih (atau sebaliknya) tak lagi buatkan aplikasi tergantung — sambungan lama dibuang dan disambung semula terus.\n\n⏱️ Tak lagi tersangkut pada skrin loading\nDulu aplikasi boleh menunggu tanpa henti bila sambungan bermasalah. Sekarang ada had masa dan cubaan semula automatik.\n\n🛡️ Kurang aplikasi tertutup sendiri\nBeberapa punca aplikasi tertutup semasa main video sudah ditutup.\n\n📡 Laporan masalah automatik\nBila ada saluran gagal, aplikasi hantar laporan ringkas supaya kami nampak masalah tanpa perlu tanya anda.\n\nPastikan storage mencukupi sebelum update (50MB).\n\nSelamat menonton! 🍿📺"
 }
